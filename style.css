@@ -5,13 +5,13 @@
 
 
 body{
-    background-color: rgb(82, 5, 82)
+    background-color: rgb(87, 7, 71)
 }
 
 
 .cabecalho{
-    background-color: rgb(19, 20, 26);
-    color:white;
+    background: linear-gradient(to right, rgb(21, 23, 39), rgb(45, 3 , 82));
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: space-between;
     padding: 10px 0;
@@ -25,22 +25,22 @@ body{
 
 
 .sobreImagem{
-width:
+width: 360
 }
 
 .sobre{
-background-image: linear gradient(#FFFFFF. #FFFFFF);
-color: orange;
+background-image: linear-gradient(#1f023b, #610F53);
+color: white;
 display: flex;
 justify-content: center;
-align-items: center;
-padding: 370px 0;
+align-items: right;
+padding: 200px 0;
 }
 
 .sobreConteudo{
-width:
+width: 65%
 }
 
 .sobreTitulo{
-padding: 100px 50px;
+padding: 45px 1px;
 }
