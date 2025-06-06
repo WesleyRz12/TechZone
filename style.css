@@ -14,33 +14,37 @@ body{
     color:rgb(255, 255, 255);
     display: flex;
     justify-content: space-between;
-    padding: 10px 0;
-    font-size: 25px;
+    padding: 30px;
+    font-size: 40px;
 }
 .cabecalhoListaItem{
-   display: inline-block;
-   margin: 0 30px;
-   padding: 15px, 0;
+   display: inline-flex;
+   margin: 10px;
+   padding: 10px;
 }
 
 
 .sobreImagem{
-width: 360
+width: 30%;
+margin: 1px;
+padding: 1px;
 }
 
 .sobre{
 background-image: linear-gradient(#1f023b, #610F53);
 color: white;
+font-size: 23px;
 display: flex;
 justify-content: center;
 align-items: right;
-padding: 200px 0;
+padding: 100px 10px;
 }
 
 .sobreConteudo{
-width: 65%
+width: 600px;
 }
 
 .sobreTitulo{
-padding: 45px 1px;
+margin: 1px;
+padding: 10px;
 }
