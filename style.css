@@ -5,7 +5,7 @@
 
 
 body{
-    background-color: rgb(87, 7, 71)
+    background: linear-gradient(rgb(84, 7, 72), rgb(50, 3, 53));
 }
 
 
@@ -36,8 +36,8 @@ color: white;
 font-size: 23px;
 display: flex;
 justify-content: center;
-align-items: right;
-padding: 100px 10px;
+align-items: left;
+padding: 100px 100px;
 }
 
 .sobreConteudo{
@@ -45,6 +45,6 @@ width: 600px;
 }
 
 .sobreTitulo{
-margin: 1px;
+margin: 10px;
 padding: 10px;
 }
